@@ -91,6 +91,7 @@ yarn dev
 - ✅ Türkiye haritası odaklı görünüm
 - ✅ Responsive tasarım
 - ✅ Modern UI/UX
+- ✅ Türkiye şehirlerini analiz etme.
 
 ## 🧪 Geliştirme
 
