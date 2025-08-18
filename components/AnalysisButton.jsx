@@ -50,7 +50,7 @@ export default function AnalysisButton() {
   };
 
   return (
-    <button onClick={handleClick} disabled={loading}>
+    <button onClick={handleClick} disabled={true}>
       {loading
         ? "🔄 Analysis in progress. This may take a few minutes..."
         : "Analyze and Download"}
